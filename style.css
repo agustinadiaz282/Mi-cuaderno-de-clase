@@ -10,8 +10,14 @@ header {
   background-color: #FFFFFF;
     }  
 ol {
-  text-align: center
+  text-align: center;
     }
 h1 {
-  text-align: center
+  text-align: center;
     }  
+ul {
+  text-align: right;
+    }
+h3 {
+  text-align: right;
+    }
