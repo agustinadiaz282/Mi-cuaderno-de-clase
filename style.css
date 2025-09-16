@@ -1,6 +1,6 @@
 body {
   background-color: #88EB9C;
-  text-align: left;
+  text-align: right;
     }
 footer {
   background-color: #FFFFFF;
@@ -16,8 +16,8 @@ h1 {
   text-align: center;
     }  
 ul {
-  text-align: right;
+  text-align: left;
     }
 h3 {
-  text-align: right;
+  text-align: left;
     }
