@@ -1,7 +1,11 @@
-  body {
-    background-color: #71CC39;
-   }
- footer{
-  colour: "white";
+body {
+  background-color: #71CC39;
+  text-align: left;
     }
-
+footer{
+  background-color: #FA4925;
+  text-align: center;
+    }
+header{
+  background-color: #FA4925;
+    }  
