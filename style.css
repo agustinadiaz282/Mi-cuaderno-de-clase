@@ -1,4 +1,4 @@
-body {
+body{
   background-color: #71CC39;
   text-align: left;
     }
@@ -9,3 +9,6 @@ footer{
 header{
   background-color: #FA4925;
     }  
+ol{
+  text-align: center
+    }
